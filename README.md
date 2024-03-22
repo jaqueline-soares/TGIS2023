@@ -4,14 +4,14 @@ This repository contains all the preprocessed data and codes used in the paper �
 
 # Project tree
 
- * [code](/../../tree/main/code)
+ * [code](/../../tree/main/codes)
  * [data](/../../tree/main/data)
  * [docs](/../../tree/main/docs)
  * [figs](/../../tree/main/figs)
  * [LICENSE](/../../blob/main/LICENSE)
  * [README.md](/../../blob/main/docs/README.md)
 
-The *code* folder contains the Python codes developed to implement the model and the two groups of experiments proposed in the paper.
+The *codes* folder contains the Python codes developed to implement the model and the two groups of experiments proposed in the paper.
 
 The *data* folder contains the preprocessed data considered in the paper. Details about the data are provided in the section “2.1. Area of study and datasets” of the paper.
 
