@@ -4,7 +4,7 @@ This repository contains all the preprocessed data and codes used in the paper â
 
 # Project tree
 
- * [code](/../../tree/main/codes)
+ * [codes](/../../tree/main/codes)
  * [data](/../../tree/main/data)
  * [docs](/../../tree/main/docs)
  * [figs](/../../tree/main/figs)
